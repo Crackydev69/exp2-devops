@@ -17,7 +17,7 @@ public class WebTest {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get("https://kush5948.github.io/Maven-Experiment-02/"); // Replace with your GITHUB-URL if needed
+        driver.get("https://crackydev69.github.io/exp2-devops/"); // Replace with your GITHUB-URL if needed
     }
 
     @Test
